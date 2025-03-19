@@ -82,6 +82,9 @@ endmodule
  ### RegisterNumber: 212224230147
  
 **Logic symbol & Truthtable**
+
+
+
 ![exp1 sumblogicagates](https://github.com/user-attachments/assets/534bfc76-1a00-4ea4-b89e-67dfa252b34f)
 
 
