@@ -1,4 +1,7 @@
 ## study-of-basic-gates
+ ### Developed by: MAHA JANANI.R
+ ### RegisterNumber: 212224230147
+ ### Date: 12.03.2025
 
 **AIM:** 
 
@@ -78,8 +81,7 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule
 ~~~
- ### Developed by: MAHA JANANI.R
- ### RegisterNumber: 212224230147
+
  
 **Logic symbol & Truthtable**
 
